@@ -3,7 +3,7 @@ test
 
 :eyes: :walking: :evergreen_tree: 
 
-:fire: :neutral_face:
+:fire: :arrow_forward: :neutral_face:
 
 :hocho: :round_pushpin:
 
@@ -22,3 +22,9 @@ test
 :neutral_face: :collision: :fire:
 
 :question: :dash: :heavy_minus_sign:
+
+:bust_in_silhouette: :raised_hands: :neutral_face:
+
+:sparkles: :woman:
+
+:apple: :hibiscus: :woman: :hibiscus: :apple:
