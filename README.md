@@ -3,7 +3,6 @@ test
 
 :eyes: :walking: :evergreen_tree: 
 
-
 :fire: :neutral_face:
 
 :hocho: :round_pushpin:
@@ -14,5 +13,12 @@ test
 
 :honeybee: :star2: :sparkles:
 
+ :strawberry: :arrow_double_down: :ocean:
 
-:arrow_double_down: :strawberry: 
+:fishing_pole_and_fish: :fish:
+
+:fish: :arrow_down: :heavy_minus_sign:
+
+:neutral_face: :collision: :fire:
+
+:question: :dash: :heavy_minus_sign:
