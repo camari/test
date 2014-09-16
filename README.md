@@ -36,3 +36,12 @@ test
 :neutral_face: :fast_forward: :older_man: :walking:
 
 :arrow_forward: :curly_loop: :arrow_forward: :wavy_dash: :arrow_forward:
+
+:older_man: :mag:  :woman:
+
+:older_man: :lips: :woman: :couple:
+
+:couple: :walking: :golf:
+
+:raised_hand: :strawberry: :melon: :lemon: :clock1: :fast_forward: :clock11:
+
