@@ -43,5 +43,7 @@ test
 
 :couple: :walking: :golf:
 
-:raised_hand: :strawberry: :melon: :lemon: :clock1: :fast_forward: :clock11:
+:raised_hand: :strawberry: :clock1: :fast_forward: :clock11:
 
+:white_circle: :apple:  :moon:
+:large_orange_diamond: :apple:  :sunny:
