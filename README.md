@@ -10,6 +10,9 @@ test
 
 :fishing_pole_and_fish: :strawberry:
 
-:white_circle: :honeybee:
+:clock10: :white_circle: :honeybee: :airplane:
 
-:honeybee:
+:honeybee: :star2: :sparkles:
+
+
+:arrow_double_down: :strawberry: 
