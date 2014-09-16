@@ -34,3 +34,5 @@ test
 :woman: :bust_in_silhouette: :grey_question:
 
 :neutral_face: :fast_forward: :older_man: :walking:
+
+:arrow_forward: :curly_loop: :arrow_forward: :wavy_dash: :arrow_forward:
