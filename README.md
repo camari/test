@@ -28,3 +28,9 @@ test
 :sparkles: :woman:
 
 :apple: :hibiscus: :woman: :hibiscus: :apple:
+
+:woman: :raised_hands: :neutral_face: :woman: :runner:
+
+:woman: :bust_in_silhouette: :grey_question:
+
+:neutral_face: :fast_forward: :older_man: :walking:
